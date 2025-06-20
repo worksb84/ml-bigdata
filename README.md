@@ -1,0 +1,3 @@
+- JUPYTER NOTEBOOK
+- SPARK (Python, Scala)
+- MongoDB, S3
